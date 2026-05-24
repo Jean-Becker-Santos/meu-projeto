@@ -1,3 +1,1 @@
-print('hello')
-
-teste = 10 
+print('hello git')
